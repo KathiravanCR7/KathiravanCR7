@@ -1,11 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kathiravan G</h1>
 <h3 align="center">Aspiring Full Stack Developer | Problem Solver | Enthusiastic and Quick Learner</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kathiravangdev&label=Profile%20views&color=0e75b6&style=flat" alt="kathiravangdev" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kathiravangdev" alt="kathiravangdev" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/kathira28925922" target="blank"><img src="https://img.shields.io/twitter/follow/kathira28925922?logo=twitter&style=for-the-badge" alt="kathira28925922" /></a> </p>
+<img align="right" alt="animated-Profile" width=200px src="https://img.freepik.com/premium-photo/portrait-successful-programmer-game-developer-coder-guy-uses-computer-laptop-work-game-design-hacker-boy-generative-ai-cyber-gamer_117038-7605.jpg">
 
 - 🌱 I’m currently learning **JavaScript**
 
@@ -30,3 +25,9 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kathiravangdev&show_icons=true&locale=en" alt="kathiravangdev" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kathiravangdev&" alt="kathiravangdev" /></p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kathiravangdev&label=Profile%20views&color=0e75b6&style=flat" alt="kathiravangdev" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kathiravangdev" alt="kathiravangdev" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/kathira28925922" target="blank"><img src="https://img.shields.io/twitter/follow/kathira28925922?logo=twitter&style=for-the-badge" alt="kathira28925922" /></a> </p>
