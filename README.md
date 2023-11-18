@@ -1,12 +1,15 @@
 <h1 align="center">Hi 👋, I'm Kathiravan G</h1>
 <h3 align="center">Aspiring Full Stack Developer | Problem Solver | Enthusiastic and Quick Learner</h3>
 <img align="right" alt="animated-Profile" width=200px src="https://img.freepik.com/premium-photo/portrait-successful-programmer-game-developer-coder-guy-uses-computer-laptop-work-game-design-hacker-boy-generative-ai-cyber-gamer_117038-7605.jpg">
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=kathiravangdev&label=Profile%20views&color=0e75b6&style=flat" alt="kathiravangdev" /> </p>
 
 - 🌱 I’m currently learning **JavaScript**
 
 - 💬 Ask me about **Problem-Solving, DSA, Java**
 
 - 📫 How to reach me **kathiravangdev@gmail.com**
+
+<p align="left"> <a href="https://twitter.com/kathira28925922" target="blank"><img src="https://img.shields.io/twitter/follow/kathira28925922?logo=twitter&style=for-the-badge" alt="kathira28925922" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -26,8 +29,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kathiravangdev&" alt="kathiravangdev" /></p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kathiravangdev&label=Profile%20views&color=0e75b6&style=flat" alt="kathiravangdev" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kathiravangdev" alt="kathiravangdev" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/kathira28925922" target="blank"><img src="https://img.shields.io/twitter/follow/kathira28925922?logo=twitter&style=for-the-badge" alt="kathira28925922" /></a> </p>
