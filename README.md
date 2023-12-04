@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **JavaScript**
 
-- 💬 Ask me about **Problem-Solving, DSA, Java**
+- 💬 Ask me about **Problem-Solving, DSA, Java, Web, and Development**
 
 - 📫 How to reach me **kathiravangdev@gmail.com**
 
